@@ -18,11 +18,11 @@
 17. [What is one of your weaknesses?](#what-is-one-of-your-weaknesses)
 18. [Tell us about a time you had to explain a complex technical topic to a non-technical person.](#tell-us-about-a-time-you-had-to-explain-a-complex-technical-topic-to-a-non-technical-person)
 19. [What are the taxes you know/ What do you know about taxes?](#what-are-the-taxes-you-know-what-do-you-know-about-taxes)
-20. [How have you handled a research task in Uni or work and was there any obstacles and how did you overcame them?](#how-have-you-handled-a-research-task-in-uni-or-work-and-was-there-any-obstacles-and-how-did-you-overcame-them)
+20. [How have you handled a research task in Uni or work and was there any obstacles and how did you overcame them?](#how-have-you-handled-a-research-task-in-uni-or-work-and-was-there-any-obstacles-and-how-did-your-overcame-them)
 21. [What are some of challenges you faced working in a team and how you overcame these challenges?](#what-are-some-of-challenges-you-faced-working-in-a-team-and-how-you-overcame-these-challenges)
 22. [How would you describe yourself?](#how-would-you-describe-yourself)
 23. [Describe a situation where you failed at something. What did you do?](#describe-a-situation-where-you-failed-at-something-what-did-you-do)
-24. [What do you think is the biggest asset that you would bring if you were successful in your application to work here?](#what-do-you-think-is-the-biggest-asset-that-you-would-bring-if-you-were-successful-in-your-application-to-work-here)
+24. [What do you think is the biggest asset that you would bring if you were successful in your application to work here?](#what-do-you-think-is-the-biggest-asset-that-you-would-bring-if-you-were-successful-in-you-application-to-work-here)
 
 ## What was your greatest achievement?
 One of the greatest achievements I had was during my university days when I was part of a team that developed an e-commerce website for a client based in Texas, USA, as part of our capstone project.
@@ -139,7 +139,7 @@ Action: I decided to take the following steps to improve the restocking process:
 
 Result: After implementing the new storage system, our team experienced a significant improvement in the restocking process, reducing the time spent on this task by more than 30%. This allowed us to devote more time to attending to customers and other essential duties, ultimately improving overall customer satisfaction and our team's efficiency. The experience demonstrated the importance of continuous improvement and the value of addressing even small inefficiencies in the workplace.
 
-## How would I respond to high stress situation
+## How would I respond to a high stress situation
 When faced with a high-stress situation, it's essential to remain calm and follow a measured approach to handle the situation effectively. Here is how you can deal with such situations:
 
 1. Stay composed: First and foremost, remind yourself to maintain composure. Take a few deep breaths to help you stay centered and focused. This will help you think more clearly and make rational decisions, rather than merely reacting impulsively.
